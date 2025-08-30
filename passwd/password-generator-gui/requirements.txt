@@ -1,0 +1,4 @@
+Tkinter is included with Python, so it doesn't need to be listed in requirements. Here’s the contents for the requirements.txt file:
+
+Flask
+pyperclip
